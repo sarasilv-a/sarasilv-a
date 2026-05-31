@@ -4,7 +4,6 @@
 - 🎓 MSc in Software Engineering (specializing in Knowledge Engineering & Intelligent Systems)
 - 🍊 Former Co-Director of Marketing & Content @ [CeSIUM](https://cesium.di.uminho.pt)
 - 🌍 Currently on Erasmus @ Vienna
-- 🥋 Fun fact: I do karate
 
 > *"The only way to do great work is to love what you do."*
 
