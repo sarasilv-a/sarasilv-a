@@ -25,7 +25,6 @@
 
 **1st year**
 - [**LI2**](https://github.com/sarasilv-a/Projects/tree/main/1st%20Year/2nd%20Semester/LI2) - Roguelite game written in C
-- [**LI1**](https://github.com/sarasilv-a/laboratorios) - A little game written in Haskell
 
 ## 🕹️ Skills
 
