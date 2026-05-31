@@ -1,4 +1,4 @@
-# 👋🏼 Hi there! I'm Sara ^^
+# 👋🏼 Hi there! I'm Sara
 
 ### I'm a Software Engineering Student @ [UMinho](https://www.uminho.pt)
 - 🎓 MSc in Software Engineering (specializing in Knowledge Engineering & Intelligent Systems)
