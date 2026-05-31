@@ -15,9 +15,16 @@
 
 ## 🎓 Uni Projects
 
+**4th year**
+- [**ASMa**](https://github.com/sarasilv-a/Projects/tree/main/4th%20Year/ASMa) - Multi-agent system for integrated healthcare management, covering emergencies, scheduling and patient monitoring
+- [**ESR**](https://github.com/sarasilv-a/Projects/tree/main/4th%20Year/ESR) - Over-The-Top multimedia streaming service over an application overlay network, with dynamic routing and fault tolerance
+- [**DAA**](https://github.com/sarasilv-a/Projects/tree/main/4th%20Year/DAA) - ML models for data analysis and prediction using Python
+
 **3rd year**
 - [**Montagem Belas Pizzas (LI4)**](https://github.com/sarasilv-a/Projects/tree/main/3rd%20Year/1st%20Semester/LI4) - Web platform for managing pizza assembly, inventory and employee operations, built with Blazor Server and Tailwind CSS
 - [**DSS**](https://github.com/sarasilv-a/Projects/tree/main/3rd%20Year/1st%20Semester/DSS) - Backend management system for a service station, made with Java
+- [**SD**](https://github.com/sarasilv-a/Projects/tree/main/3rd%20Year/1st%20Semester/SD) - Shared key-value storage service with concurrent multi-threaded client access over TCP, built with Java
+- [**IA**](https://github.com/sarasilv-a/Projects/tree/main/3rd%20Year/1st%20Semester/IA) - Search problem solver with graph-based routing algorithms, written in Python
 - [**Solar System (CG)**](https://github.com/sarasilv-a/Projects/tree/main/3rd%20Year/2nd%20Semester/CG) - 3D Solar System visualization with animated orbits, built with OpenGL
 - [**Shift Management (IPM)**](https://github.com/sarasilv-a/Projects/tree/main/3rd%20Year/2nd%20Semester/IPM) - University shift scheduling system, developed with Vue.js
 - [**Pascal Compiler (PL)**](https://github.com/sarasilv-a/Projects/tree/main/3rd%20Year/2nd%20Semester/PL) - Pascal Standard compiler targeting a stack-based virtual machine, built with Python
