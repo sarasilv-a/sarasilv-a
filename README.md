@@ -23,6 +23,9 @@
 - [**Pascal Compiler (PL)**](https://github.com/sarasilv-a/Projects/tree/main/3rd%20Year/2nd%20Semester/PL) - Pascal Standard compiler targeting a stack-based virtual machine, built with Python
 - [**Productivity & Credit Risk (ADI)**](https://github.com/sarasilv-a/Projects/tree/main/3rd%20Year/2nd%20Semester/ADI) - ML models for regression and classification using CRISP-DM methodology
 
+**2nd year**
+- [**SO**](https://github.com/sarasilv-a/Projects/tree/main/2nd%20Year/SO) - Client-server app with FIFO communication, LRU cache and concurrent multi-process search, written in C
+
 **1st year**
 - [**LI2**](https://github.com/sarasilv-a/Projects/tree/main/1st%20Year/2nd%20Semester/LI2) - Roguelite game written in C
 
