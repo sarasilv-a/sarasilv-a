@@ -5,8 +5,6 @@
 - 🍊 Former Co-Director of Marketing & Content @ [CeSIUM](https://cesium.di.uminho.pt)
 - 🌍 Currently on Erasmus @ Vienna
 
-> *"The only way to do great work is to love what you do."*
-
 **Find me here:**
 
 [![Gmail](https://img.shields.io/badge/Email-41454a?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:122703sarasilva@gmail.com)
