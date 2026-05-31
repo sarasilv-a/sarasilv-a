@@ -1,6 +1,6 @@
 # 👋🏼 Hi there! I'm Sara ^^
 
-### I'm a Software Engineering Student @ [UMinho](https://uminho.pt)
+### I'm a Software Engineering Student @ [UMinho](https://www.uminho.pt)
 - 🎓 MSc in Software Engineering (specializing in Knowledge Engineering & Intelligent Systems)
 - 🍊 Former Co-Director of Marketing & Content @ [CeSIUM](https://cesium.di.uminho.pt)
 - 🌍 Currently on Erasmus @ Vienna
